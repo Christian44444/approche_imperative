@@ -1,0 +1,8 @@
+*.class 
+# tous les fichiers .class
+/.settings 
+# le répertoire .settings
+.classpath 
+# le fichier .classpath
+.project 
+# le fichier .project
