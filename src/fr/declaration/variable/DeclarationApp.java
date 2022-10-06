@@ -18,6 +18,7 @@ public class DeclarationApp {
 		String randomString = "Voici le résultat d’un calcul : 1+5=6";
 		System.out.println(randomString);
 		randomString = "Voici le résultat d’un calcul :\n1+5=6";
+		// randomString = "indice = " + by1 * 2;
 		System.out.println(randomString);
 		
 	}
